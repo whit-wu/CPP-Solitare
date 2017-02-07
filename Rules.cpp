@@ -1,3 +1,4 @@
+// Class that dictates the rules of the game.
 #include "stdafx.h"
 #include "Rules.h"
 
