@@ -1,3 +1,4 @@
+// Main class that controls the logic and flow of the game. 
 // NewCardGame.cpp : Defines the entry point for the console application.
 //
 
