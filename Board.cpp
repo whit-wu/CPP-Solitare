@@ -1,3 +1,4 @@
+// Class that draws board onto console window
 #include "stdafx.h"
 #include "Board.h"
 
