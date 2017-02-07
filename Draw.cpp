@@ -1,3 +1,4 @@
+// Class that allows images to be "drawn" onto the console.  Called by the Board class to generate a board.
 #include "stdafx.h"
 #include "Draw.h"
 
