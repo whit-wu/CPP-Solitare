@@ -1,3 +1,4 @@
+// Class that creates cards.  Deck class calls this class to generate a deck.
 #include "stdafx.h"
 #include "Card.h"
 
