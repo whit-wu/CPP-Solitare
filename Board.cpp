@@ -13,7 +13,7 @@ void Board::DrawBoard() {
 	// Center main board
 	const char graybar = '\xB2';
 	int x = 0, y = 0;
-	for (x = 0; x<80; x++)    // vertical borders
+	for (x = 0; x<80; x++)    // horizontal borders
 	{
 		y = 0;
 		setxychar(x, y, &graybar, 1);
@@ -24,7 +24,7 @@ void Board::DrawBoard() {
 	}
 
 
-	for (y = 1; y<26; y++)    // horizontal borders
+	for (y = 1; y<26; y++)    // vertical borders
 	{
 		x = 0;
 		setxychar(x, y, &graybar, 1);
