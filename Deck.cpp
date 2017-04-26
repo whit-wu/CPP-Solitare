@@ -1,4 +1,4 @@
-// Class the regulates the funtionality of a card deck object.
+// Class that regulates the funtionality of a card deck object.
 #include "stdafx.h"
 #include "Deck.h"
 
